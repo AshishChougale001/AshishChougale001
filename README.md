@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on Development
 - 📫 How to reach me ashishchougale85@hmail.com
-- 😄 Pronouns: Mr.Coder
+- 😄 Pronouns: Er.Ashish
 
 
 <!---
