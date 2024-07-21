@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AshishChougale001
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on Development
 - 📫 How to reach me ashishchougale85@hmail.com
 - 😄 Pronouns: Er.Ashish
